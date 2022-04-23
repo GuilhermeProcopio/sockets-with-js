@@ -9,3 +9,6 @@
   <li>Bootstrap</li>
   <li>Socket.io(?)</li>
 </ul>
+<h2><strong>Demonstrativo simples do projeto</strong><br>
+<img src="/images/Projeto socket.png"/></h2> 
+
